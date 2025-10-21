@@ -6,13 +6,13 @@ plugins {
 android {
 
     namespace = "com.AGUNG.pertemuan1"
-    compileSdk = 36 // Ini mungkin angkanya beda, tidak apa-apa
+    compileSdk = 36 
 
-    // VVVV--- TAMBAHKAN KODE INI ---VVVV
+   
     buildFeatures {
         viewBinding = true
     }
-    // ^^^^--- TAMBAHKAN KODE INI ---^^^^
+  
 
     defaultConfig {
         applicationId = "com.AGUNG.pertemuan1"
